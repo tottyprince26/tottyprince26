@@ -18,11 +18,9 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@tottyprince26)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://www.azquotes.com/picture-quotes/quote-i-only-know-that-i-know-nothing-socrates-82-54-95.jpg)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tottyprince26&icon=2&color=0)](https://visitcount.itsvg.in)
